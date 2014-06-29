@@ -1,46 +1,51 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: monografia.aux
+White space in argument---line 129 of file monografia.aux
+ : \citation{\par
+ :                }
+I'm skipping whatever remains of this command
 The style file: alpha-ime.bst
 Database file #1: bibliografia.bib
-You've used 9 entries,
+You've used 11 entries,
             2543 wiz_defined-function locations,
-            602 strings with 5771 characters,
-and the built_in function-call counts, 2472 in all, are:
-= -- 243
-> -- 72
-< -- 9
-+ -- 21
-- -- 18
-* -- 92
-:= -- 397
-add.period$ -- 36
-call.type$ -- 9
-change.case$ -- 45
-chr.to.int$ -- 6
-cite$ -- 9
-duplicate$ -- 99
-empty$ -- 226
-format.name$ -- 35
-if$ -- 524
+            612 strings with 6030 characters,
+and the built_in function-call counts, 3016 in all, are:
+= -- 297
+> -- 88
+< -- 11
++ -- 25
+- -- 22
+* -- 112
+:= -- 483
+add.period$ -- 44
+call.type$ -- 11
+change.case$ -- 55
+chr.to.int$ -- 8
+cite$ -- 11
+duplicate$ -- 121
+empty$ -- 276
+format.name$ -- 43
+if$ -- 640
 int.to.chr$ -- 4
 int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 57
-num.names$ -- 27
-pop$ -- 116
+newline$ -- 69
+num.names$ -- 33
+pop$ -- 142
 preamble$ -- 1
-purify$ -- 54
+purify$ -- 66
 quote$ -- 0
-skip$ -- 64
+skip$ -- 78
 stack$ -- 0
-substring$ -- 63
-swap$ -- 9
-text.length$ -- 9
-text.prefix$ -- 8
+substring$ -- 77
+swap$ -- 11
+text.length$ -- 11
+text.prefix$ -- 10
 top$ -- 0
-type$ -- 72
+type$ -- 88
 warning$ -- 0
-while$ -- 18
-width$ -- 10
-write$ -- 119
+while$ -- 22
+width$ -- 12
+write$ -- 145
+(There was 1 error message)
