@@ -4,17 +4,17 @@
 % Pacotes 
 \usepackage[T1]{fontenc}
 \usepackage[brazil]{babel}
-\usepackage[utf8]{inputenc}
+\usepackage[latin1]{inputenc}
 \usepackage[pdftex]{graphicx}           % usamos arquivos pdf/png como figuras
-\usepackage{setspace}                   % espa√ßamento flex√≠vel
-\usepackage{indentfirst}                % indenta√ß√£o do primeiro par√°grafo
-\usepackage{makeidx}                    % √≠ndice remissivo
+\usepackage{setspace}                   % espaÁamento flexÌvel
+\usepackage{indentfirst}                % indentaÁ„o do primeiro par·grafo
+\usepackage{makeidx}                    % Ìndice remissivo
 \usepackage[nottoc]{tocbibind}          % acrescentamos a bibliografia/indice/conteudo no Table of Contents
 \usepackage{courier}                    % usa o Adobe Courier no lugar de Computer Modern Typewriter
-\usepackage{type1cm}                    % fontes realmente escal√°veis
-\usepackage{listings}                   % para formatar c√≥digo-fonte (ex. em Java)
+\usepackage{type1cm}                    % fontes realmente escal·veis
+\usepackage{listings}                   % para formatar cÛdigo-fonte (ex. em Java)
 \usepackage{titletoc}
-%\usepackage[bf,small,compact]{titlesec} % cabe√ßalhos dos t√≠tulos: menores e compactos
+%\usepackage[bf,small,compact]{titlesec} % cabeÁalhos dos tÌtulos: menores e compactos
 \usepackage[fixlanguage]{babelbib}
 \usepackage[font=small,format=plain,labelfont=bf,up,textfont=it,up]{caption}
 \usepackage[usenames,svgnames,dvipsnames]{xcolor}
@@ -22,11 +22,11 @@
 %\usepackage[pdftex,plainpages=false,pdfpagelabels,pagebackref,colorlinks=true,citecolor=black,linkcolor=black,urlcolor=black,filecolor=black,bookmarksopen=true]{hyperref} % links em preto
 \usepackage[pdftex,plainpages=false,pdfpagelabels,pagebackref,colorlinks=true,citecolor=DarkGreen,linkcolor=NavyBlue,urlcolor=DarkRed,filecolor=green,bookmarksopen=true]{hyperref} % links coloridos
 \usepackage[all]{hypcap}                % soluciona o problema com o hyperref e capitulos
-\usepackage[square,sort,nonamebreak,comma]{natbib}  % cita√ß√£o bibliogr√°fica alpha (alpha-ime.bst)
+\usepackage[square,sort,nonamebreak,comma]{natbib}  % citaÁ„o bibliogr·fica alpha (alpha-ime.bst)
 \fontsize{60}{62}\usefont{OT1}{cmr}{m}{n}{\selectfont}
 
 % ---------------------------------------------------------------------------- %
-% Cabe√ßalhos similares ao TAOCP de Donald E. Knuth
+% CabeÁalhos similares ao TAOCP de Donald E. Knuth
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
@@ -35,17 +35,17 @@
 \renewcommand{\headrulewidth}{0pt}
 
 % ---------------------------------------------------------------------------- %
-\graphicspath{{./figuras/}}             % caminho das figuras (recomend√°vel)
-\frenchspacing                          % arruma o espa√ßo: id est (i.e.) e exempli gratia (e.g.) 
-\urlstyle{same}                         % URL com o mesmo estilo do texto e n√£o mono-spaced
-\makeindex                              % para o √≠ndice remissivo
-\raggedbottom                           % para n√£o permitir espa√ßos extra no texto
+\graphicspath{{./figuras/}}             % caminho das figuras (recomend·vel)
+\frenchspacing                          % arruma o espaÁo: id est (i.e.) e exempli gratia (e.g.) 
+\urlstyle{same}                         % URL com o mesmo estilo do texto e n„o mono-spaced
+\makeindex                              % para o Ìndice remissivo
+\raggedbottom                           % para n„o permitir espaÁos extra no texto
 \fontsize{60}{62}\usefont{OT1}{cmr}{m}{n}{\selectfont}
 \cleardoublepage
 \normalsize
 
 % ---------------------------------------------------------------------------- %
-% Op√ß√µes de listing usados para o c√≥digo fonte
+% OpÁıes de listing usados para o cÛdigo fonte
 % Ref: http://en.wikibooks.org/wiki/LaTeX/Packages/Listings
 \lstset{ %
 language=Java,                  % choose the language of the code
@@ -77,19 +77,19 @@ framexrightmargin=10pt
 % Corpo do texto
 \begin{document}
 \frontmatter 
-% cabe√ßalho para as p√°ginas das se√ß√µes anteriores ao cap√≠tulo 1 (frontmatter)
+% cabeÁalho para as p·ginas das seÁıes anteriores ao capÌtulo 1 (frontmatter)
 \fancyhead[RO]{{\footnotesize\rightmark}\hspace{2em}\thepage}
 \setcounter{tocdepth}{2}
 \fancyhead[LE]{\thepage\hspace{2em}\footnotesize{\leftmark}}
 \fancyhead[RE,LO]{}
 \fancyhead[RO]{{\footnotesize\rightmark}\hspace{2em}\thepage}
 
-\onehalfspacing  % espa√ßamento
+\onehalfspacing  % espaÁamento
 
 % ---------------------------------------------------------------------------- %
 % CAPA
-% Nota: O t√≠tulo para as disserta√ß√µes/teses do IME-USP devem caber em um 
-% orif√≠cio de 10,7cm de largura x 6,0cm de altura que h√° na capa fornecida pela SPG.
+% Nota: O tÌtulo para as dissertaÁıes/teses do IME-USP devem caber em um 
+% orifÌcio de 10,7cm de largura x 6,0cm de altura que h· na capa fornecida pela SPG.
 \thispagestyle{empty}
 \begin{center}
     \vspace*{2.3cm}
@@ -102,9 +102,9 @@ framexrightmargin=10pt
     \textsc{
     Monografia sobre  \\[-0.25cm]     
     Flexible OLED Displays\\[-0.25cm]
-    Universidade de S√£o Paulo\\[-0.25cm]
+    Universidade de S„o Paulo\\[-0.25cm]
     para disciplina de \\[-0.25cm]   
-    Computa√ß√£o M√≥vel}
+    ComputaÁ„o MÛvel}
     
     \vskip 1.5cm
     Professor: Dr. Alfredo Goldman vel Lejbman\\
@@ -114,14 +114,14 @@ framexrightmargin=10pt
    	\vskip 1cm
         
     \vskip 0.5cm
-    \normalsize{S√£o Paulo, 27 Junho de 2014}
+    \normalsize{S„o Paulo, 27 Junho de 2014}
 \end{center}
 
 % ---------------------------------------------------------------------------- %
-\pagenumbering{roman}     % come√ßamos a numerar 
+\pagenumbering{roman}     % comeÁamos a numerar 
 % ---------------------------------------------------------------------------- %
 % Agradecimentos:
-% Se o candidato n√£o quer fazer agradecimentos, deve simplesmente eliminar esta p√°gina 
+% Se o candidato n„o quer fazer agradecimentos, deve simplesmente eliminar esta p·gina 
 %\chapter*{Agradecimentos}
 
 
@@ -142,23 +142,23 @@ framexrightmargin=10pt
 %\noindent \textbf{Keywords:} keyword1, keyword2, keyword3.
 
 % ---------------------------------------------------------------------------- %
-% Sum√°rio
-%\tableofcontents    % imprime o sum√°rio
+% Sum·rio
+%\tableofcontents    % imprime o sum·rio
 
 % ---------------------------------------------------------------------------- %
 %\chapter{Lista de Abreviaturas}
 %\begin{tabular}{ll}
- %        CFT         & Transformada cont√≠nua de Fourier (\emph{Continuous Fourier Transform})\\
+ %        CFT         & Transformada contÌnua de Fourier (\emph{Continuous Fourier Transform})\\
  %        DFT         & Transformada discreta de Fourier (\emph{Discrete Fourier Transform})\\
- %       EIIP         & Potencial de intera√ß√£o el√©tron-√≠on (\emph{Electron-Ion Interaction Potentials})\\
+ %       EIIP         & Potencial de interaÁ„o elÈtron-Ìon (\emph{Electron-Ion Interaction Potentials})\\
  %       STFT         & Tranformada de Fourier de tempo reduzido (\emph{Short-Time Fourier Transform})\\
 %\end{tabular}
 
 % ---------------------------------------------------------------------------- %
-%\chapter{Lista de S√≠mbolos}
+%\chapter{Lista de SÌmbolos}
 %\begin{tabular}{ll}
- %       $\omega$    & Frequ√™ncia angular\\
-  %      $\psi$      & Fun√ß√£o de an√°lise \emph{wavelet}\\
+ %       $\omega$    & FrequÍncia angular\\
+  %      $\psi$      & FunÁ„o de an·lise \emph{wavelet}\\
   %      $\Psi$      & Transformada de Fourier de $\psi$\\
 %\end{tabular}
 
@@ -168,14 +168,14 @@ framexrightmargin=10pt
 %\listoftables            
 
 % ---------------------------------------------------------------------------- %
-% Cap√≠tulos do trabalho
+% CapÌtulos do trabalho
 \mainmatter
 
-% cabe√ßalho para as p√°ginas de todos os cap√≠tulos
+% cabeÁalho para as p·ginas de todos os capÌtulos
 \fancyhead[RE,LO]{\thesection}
 
-%\singlespacing              % espa√ßamento simples
-\onehalfspacing            % espa√ßamento um e meio
+%\singlespacing              % espaÁamento simples
+\onehalfspacing            % espaÁamento um e meio
 
 \input cap-introduction         % associado ao arquivo: 'cap-introduction.tex'
 \input cap-research             % associado ao arquivo: 'cap-research.tex'
@@ -183,7 +183,7 @@ framexrightmargin=10pt
 \input cap-oled                 % associado ao arquivo: 'cap-oled.tex'
 \input cap-conclusions          % associado ao arquivo: 'cap-conclusions.tex'
 
-% cabe√ßalho para os ap√™ndices
+% cabeÁalho para os apÍndices
 \renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\appendixname\ \thechapter}} {\MakeUppercase{#1}} }
 \fancyhead[RE,LO]{}
 \appendix
@@ -191,13 +191,13 @@ framexrightmargin=10pt
 
 % ---------------------------------------------------------------------------- %
 % Bibliografia
-\backmatter \singlespacing   % espa√ßamento simples
-\bibliographystyle{alpha-ime}% cita√ß√£o bibliogr√°fica alpha
+\backmatter \singlespacing   % espaÁamento simples
+\bibliographystyle{alpha-ime}% citaÁ„o bibliogr·fica alpha
 \bibliography{bibliografia}  % associado ao arquivo: 'bibliografia.bib'
 
 % ---------------------------------------------------------------------------- %
-% √çndice remissivo
+% Õndice remissivo
 
-\printindex   % imprime o √≠ndice remissivo no documento 
+\printindex   % imprime o Ìndice remissivo no documento 
 
 \end{document}

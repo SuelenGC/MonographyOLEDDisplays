@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  28 JUN 2014 20:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  29 JUN 2014 00:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -50,8 +50,217 @@ Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/latin1.def
-File: latin1.def 2008/03/30 v1.1d Input encoding file
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
@@ -267,6 +476,8 @@ Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count105
 
@@ -355,7 +566,20 @@ Writing index file monografia.idx
 (/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 )
-(./monografia.aux)
+(./monografia.aux
+
+LaTeX Warning: Label `sec:camadas' multiply defined.
+
+
+LaTeX Warning: Label `sec:substrato' multiply defined.
+
+
+LaTeX Warning: Label `sec:substrato' multiply defined.
+
+
+LaTeX Warning: Label `sec:substrato' multiply defined.
+
+)
 \openout1 = `monografia.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
@@ -372,8 +596,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
 LaTeX Font Info:    ... okay on input line 78.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
 LaTeX Font Info:    ... okay on input line 78.
-
-(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count114
 \scratchdimen=\dimen130
@@ -508,18 +731,18 @@ Cap\'{\i }tulo 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 12.
+(babel)             in language  on input line 13.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 28.
 [1
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 30.
 ) (./cap-research.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -535,89 +758,14 @@ Package babel Info: Redefining portuges shorthand "|
 Cap\'{\i }tulo 2.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 9.
-! Missing $ inserted.
-<inserted text> 
-                $
-l.12 ...esta pesquida foram utilizados informa√ß√µ
-                                                  es de diversos sites de te...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \textordfeminine invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \textordfeminine invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 12.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 12.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.13 
-     
-? 
-Missing character: There is no √ in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no √ in font cmr10!
-
-Overfull \hbox (68.13448pt too wide) in paragraph at lines 12--13
-[]\T1/cmr/m/n/10.95 Para esta pes-quida fo-ram uti-li-za-dos informa√ü√$\OML/cm
-m/m/it/10.95 ^^Vesdediversossitesdetecnologiacom[]nfaseemtr[]s; s\OT1/cmr/m/it/
-10.95 $\OML/cmm/m/it/10.95 oestes \OT1/cmr/m/n/10.95 :
- []
-
-
-Overfull \hbox (284.04655pt too wide) in paragraph at lines 12--13
-\OML/cmm/m/it/10.95 http \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.95 ==news:oled \
-OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 display:net; http \OT1/cmr/m/n/10.95
- : \OML/cmm/m/it/10.95 ==www:display \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.9
-5 central:comehttp \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.95 ==www:oled \OMS/cms
-y/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 info:comqueteemoobjetivodecentralizarinform
-a\OMS/cmsy/m/n/10.95 x\OML/cmm/m/it/10.95 ^^Vesacercadetelas:$ 
- []
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.14 ...uras recentes de forma a obter informa√ß√µ
-                                                  es mais asserivas sobre o ...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 14.
-
 ) (./cap-fundamentacao.tex
-! Missing $ inserted.
-<inserted text> 
-                $
-l.2 \chapter
-            {Fundamenta√ß√£o Te√≥rica}
-? 
-Missing character: There is no √ in font cmr10!
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
-[3
+ [3
 
 ]
 Package babel Info: Redefining portuges shorthand "|
@@ -631,252 +779,16 @@ Cap\'{\i }tulo 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 2.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.2 \chapter{Fundamenta√ß√£o Te√≥rica}
-                                      
-? 
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.2 \chapter{Fundamenta√ß√£o Te√≥rica}
-                                      
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.2 \chapter{Fundamenta√ß√£o Te√≥rica}
-                                      
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.5 As primeiras televis√µ
-                          es surgiram na dec√°da de XX do s√©culo passado \c...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 5.
-
-
-LaTeX Warning: Command \textexclamdown invalid in math mode on input line 5.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 5.
-
-LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <24.88> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 5.
-
-! LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 ...o s√©culo passado \cite{WikipediaTelevisao}
-                                                  . Apartir desta descoberta...
-
-? 
-
 Package natbib Warning: Citation `WikipediaTelevisao' on page 5 undefined on in
 put line 5.
 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 5.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 5.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 5.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 5.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 5.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.6 
-    
-? 
-Missing character: There is no √ in font cmr17!
-Missing character: There is no Ω in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-
-Overfull \hbox (1785.76505pt too wide) in paragraph at lines 5--6
-\T1/cmr/bx/n/24.88 televis√$\OML/cmm/m/it/24.88 ^^VessurgiramnadecdadeXXdos[]cu
-lopassado\OT1/cmr/m/n/24.88 [[]]\OML/cmm/m/it/24.88 :Apartirdestadescoberta; mu
-itoseevoluiucomrela\OMS/cmsy/m/n/24.88 x\OT1/cmr/m/it/24.88 $\OML/cmm/m/it/24.8
-8 oastelaspossibilitandoaoconsumirdorfinalmaisqualidadecomtelasmaisfinas; image
-nscadavezmaisn\T1/cmr/bx/n/24.88 - 
- []
-
-
-Overfull \hbox (520.15932pt too wide) in paragraph at lines 5--6
-\OML/cmm/m/it/24.88 tidasebrilhosas; al[]mdeoutrosatributosques\OT1/cmr/m/it/24
-.88 $\OML/cmm/m/it/24.88 oconsideradosparaagragarqualidadeemtelas:$  
- []
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.7 ...veremos neste cap√≠tulo algumas informa√ß√µ
-                                                  es das principais e √∫ltim...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 7.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.8 
-    
-? 
-Missing character: There is no √ in font cmr17!
-
-Overfull \hbox (64.56418pt too wide) in paragraph at lines 7--8
-\T1/cmr/bx/n/24.88 informa√ü√$\OML/cmm/m/it/24.88 ^^Vesdasprincipaise[]ltimasut
-ilizadas:$  
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 10.
-! Missing $ inserted.
-<inserted text> 
-                $
-l.13 ...em min√∫sculas c√©lulas revestidas por f√≥
-                                                  sforo.
-? 
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.13 ...em min√∫sculas c√©lulas revestidas por f√≥
-                                                  sforo.
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.14 
-     
-? 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 15.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 15.
-[5]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.15 ...amanhos at√© 150 polegadas, com resolu√ß√µ
-                                                  es at√© 2000 pixels. Apres...
 
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 15.
-
-
-LaTeX Warning: Command \textexclamdown invalid in math mode on input line 15.
-
-
-! LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 ...ela equivalente \cite{WikipediaTelaPlasma}
-                                                  .
-? 
-
-Package natbib Warning: Citation `WikipediaTelaPlasma' on page 6 undefined on i
+Package natbib Warning: Citation `WikipediaTelaPlasma' on page 5 undefined on i
 nput line 15.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.16 
-     
-? 
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no Ω in font cmr17!
-
-Overfull \hbox (2112.77824pt too wide) in paragraph at lines 15--16
-\T1/cmr/bx/n/24.88 resolu√ü√$\OML/cmm/m/it/24.88 ^^Vesat[]\OT1/cmr/m/n/24.88 20
-00\OML/cmm/m/it/24.88 pixels:Apresentamexcepcionalreprodu\OMS/cmsy/m/n/24.88 x\
-OT1/cmr/m/it/24.88 $\OML/cmm/m/it/24.88 odecoreses\OT1/cmr/m/it/24.88 $\OML/cmm
-/m/it/24.88 ofabricadosnapropor\OMS/cmsy/m/n/24.88 x\OT1/cmr/m/it/24.88 $\OML/c
-mm/m/it/24.88 o[]:S\OT1/cmr/m/it/24.88 $\OML/cmm/m/it/24.88 opain[]isfinos; dev
-olumebastantereduzidoemcompara\OMS/cmsy/m/n/24.88 x\OT1/cmr/m/it/24.88 $\OML/cm
-m/m/it/24.88 oaosmonitoresdetuboeretroproje\OMS/cmsy/m/n/24.88 x\OT1/cmr/m/it/2
-4.88 $\OML/cmm/m/it/24.88 ocomreadetelaequivalente\OT1/cmr/m/n/24.88 [[]]\OML/c
-mm/m/it/24.88 :$  
- []
-
-<./figuras/plasma_display.jpg, id=107, 1606.0pt x 1204.5pt>
+<./figuras/plasma_display.jpg, id=170, 1606.0pt x 1204.5pt>
 File: ./figuras/plasma_display.jpg Graphic file (type jpg)
 
 <use ./figuras/plasma_display.jpg>
@@ -884,780 +796,58 @@ Package pdftex.def Info: ./figuras/plasma_display.jpg used on input line 19.
 (pdftex.def)             Requested size: 187.33015pt x 140.49034pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package natbib Warning: Citation `WikipediaTelaPlasma' on page 6 undefined on i
+Package natbib Warning: Citation `WikipediaTelaPlasma' on page 5 undefined on i
 nput line 24.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.26 E
-      m 1997, a Fujitsu introduziu o primeiro televisor de plasma 42 polegad...
-
-? 
-! Extra }, or forgotten $.
-<to be read again> ...rotect \pounds  }O TE\~A{^3}
-                                                  RICA
-l.26 E
-      m 1997, a Fujitsu introduziu o primeiro televisor de plasma 42 polegad...
-
-? 
-! Extra }, or forgotten $.
-\MakeUppercase  ... {\uppercase {#1}}\reserved@a }
-                                                  
-l.26 E
-      m 1997, a Fujitsu introduziu o primeiro televisor de plasma 42 polegad...
-
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.26 E
-      m 1997, a Fujitsu introduziu o primeiro televisor de plasma 42 polegad...
-
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.26 E
-      m 1997, a Fujitsu introduziu o primeiro televisor de plasma 42 polegad...
-
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.26 E
-      m 1997, a Fujitsu introduziu o primeiro televisor de plasma 42 polegad...
-
-? 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 26.
-[6]
-Overfull \vbox (176.99419pt too high) has occurred while \output is active []
+(babel)             in language  on input line 25.
+[5 <./figuras/plasma_display.jpg>]
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 26.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 26.
-
-[7 <./figuras/plasma_display.jpg>]
-
-Package natbib Warning: Citation `WikipediaTelaPlasma' on page 8 undefined on i
+Package natbib Warning: Citation `WikipediaTelaPlasma' on page 6 undefined on i
 nput line 26.
 
-
-LaTeX Warning: Reference `fig:camadas_plasma' on page 8 undefined on input line
- 28.
-
-<./figuras/camadas_plasma.jpg, id=123, 861.2175pt x 714.67pt>
+<./figuras/camadas_plasma.jpg, id=180, 861.2175pt x 714.67pt>
 File: ./figuras/camadas_plasma.jpg Graphic file (type jpg)
 
 <use ./figuras/camadas_plasma.jpg>
 Package pdftex.def Info: ./figuras/camadas_plasma.jpg used on input line 32.
 (pdftex.def)             Requested size: 187.33015pt x 155.45036pt.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.37 ...a tecnologia vi√°vel para dispositivos m√≥
-                                                  veis pela sua tecnologia n...
-
-? 
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.37 ...a tecnologia vi√°vel para dispositivos m√≥
-                                                  veis pela sua tecnologia n...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 37.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 37.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 37.
-
-
-LaTeX Warning: Command \textexclamdown invalid in math mode on input line 37.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.38 
-     
-? 
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no Ω in font cmr17!
-
-Overfull \hbox (13.8575pt too wide) in paragraph at lines 37--38
-\T1/cmr/bx/n/24.88 m√$[]\OML/cmm/m/it/24.88 veispelasuatecnologian\OT1/cmr/m/it
-/24.88 $\OML/cmm/m/it/24.88 osert\OT1/cmr/m/it/24.88 $\OML/cmm/m/it/24.88 oport
-til:$  
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 41.
 
-! LaTeX Error: Command \textcent unavailable in encoding T1.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44 ... comprimido dentro de celas entre duas l√¢
-                                                  minas transparentes polari...
-
-? 
-
-! LaTeX Error: Command \textcent unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44 ...doras. Os eixos polarizadores das duas l√¢
-                                                  minas est√£o alinhados per...
-
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.46 E
-      ntre as suas principais caracter√≠sticas est√° a sua leveza, sua porta...
-
-? 
-! Extra }, or forgotten $.
-<to be read again> ...rotect \pounds  }O TE\~A{^3}
-                                                  RICA
-l.46 E
-      ntre as suas principais caracter√≠sticas est√° a sua leveza, sua porta...
-
-? 
-! Extra }, or forgotten $.
-\MakeUppercase  ... {\uppercase {#1}}\reserved@a }
-                                                  
-l.46 E
-      ntre as suas principais caracter√≠sticas est√° a sua leveza, sua porta...
-
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.46 E
-      ntre as suas principais caracter√≠sticas est√° a sua leveza, sua porta...
-
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.46 E
-      ntre as suas principais caracter√≠sticas est√° a sua leveza, sua porta...
-
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.46 E
-      ntre as suas principais caracter√≠sticas est√° a sua leveza, sua porta...
-
-? 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 46.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 46.
-[8 <./figuras/camadas_plasma.jpg>]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.46 ...ito maiores do que os tubos de raios cat√≥
-                                                  dicos (CRT). Seu baixo con...
-
-? 
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.46 ...ito maiores do que os tubos de raios cat√≥
-                                                  dicos (CRT). Seu baixo con...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 46.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 46.
-
-
-LaTeX Warning: Command \textexclamdown invalid in math mode on input line 46.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 46.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 46.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.46 ...ort√°teis, alimentados por bateria eletr√¥
-                                                  nica. √â um dispositivo el...
-
-? 
-! Missing { inserted.
-<to be read again> 
-                   \egroup 
-l.46 ...ort√°teis, alimentados por bateria eletr√¥
-                                                  nica. √â um dispositivo el...
-
-? 
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.46 ...ort√°teis, alimentados por bateria eletr√¥
-                                                  nica. √â um dispositivo el...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 46.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.46 ...s, alimentados por bateria eletr√¥nica. √â
-                                                   um dispositivo eletr√¥nic...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 46.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 46.
-
-! Please use \mathaccent for accents in math mode.
-\add@accent ...@spacefactor \spacefactor }\accent 
-                                                  #1 #2\egroup \spacefactor ...
-l.46 ...ria eletr√¥nica. √â um dispositivo eletr√¥
-                                                  nico-√≥ptico modulado, com...
-
-? 
-! Missing { inserted.
-<to be read again> 
-                   \egroup 
-l.46 ...ria eletr√¥nica. √â um dispositivo eletr√¥
-                                                  nico-√≥ptico modulado, com...
-
-? 
-! You can't use `\spacefactor' in math mode.
-\add@accent ...}\accent #1 #2\egroup \spacefactor 
-                                                  \accent@spacefactor 
-l.46 ...ria eletr√¥nica. √â um dispositivo eletr√¥
-                                                  nico-√≥ptico modulado, com...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 46.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 46.
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 46.
-
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 46.
-
-
-! LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.46 ...ores ou preto e branco \cite{WikipediaLCD}
-                                                  .
-? 
-
-Package natbib Warning: Citation `WikipediaLCD' on page 9 undefined on input li
+Package natbib Warning: Citation `WikipediaLCD' on page 6 undefined on input li
 ne 46.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.47 
-     
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.47 
-     
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.47 
-     
-? 
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no Ω in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no Ë in font cmex10!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no Ë in font cmex10!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
 
-Overfull \hbox (3199.89919pt too wide) in paragraph at lines 46--47
-\T1/cmr/bx/n/24.88 cat√$[]\OML/cmm/m/it/24.88 dicos\OT1/cmr/m/n/24.88 (\OML/cmm
-/m/it/24.88 CRT\OT1/cmr/m/n/24.88 )\OML/cmm/m/it/24.88 :Seubaixoconsumodeenergi
-ael[]tricalhepermiteserutilizadoemequipamentosportteis; alimentadosporbateriael
-etr[]$  
- []
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.48 ... monitor muito leve e fino, sem partes m√≥
-                                                  veis \cite{WikipediaLCD}.
-? 
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.48 ... monitor muito leve e fino, sem partes m√≥
-                                                  veis \cite{WikipediaLCD}.
-? 
-
-! LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 ...no, sem partes m√≥veis \cite{WikipediaLCD}
-                                                  .
-? 
-
-Package natbib Warning: Citation `WikipediaLCD' on page 9 undefined on input li
+Package natbib Warning: Citation `WikipediaLCD' on page 6 undefined on input li
 ne 48.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.49 
-     
-? 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 50.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 50.
-[9]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.50 ...ue come√ßaram no Gameboy (Nintendo), rel√≥
-                                                  gios digitais, calculadora...
 
-? 
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.50 ...ue come√ßaram no Gameboy (Nintendo), rel√≥
-                                                  gios digitais, calculadora...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 50.
+Package natbib Warning: Citation `WikipediaLCD' on page 6 undefined on input li
+ne 50.
 
 
-LaTeX Warning: Command \textexclamdown invalid in math mode on input line 50.
+Package natbib Warning: Citation `WikipediaLCD' on page 6 undefined on input li
+ne 52.
 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 50.
-
-
-LaTeX Warning: Command \textcent invalid in math mode on input line 50.
-
-
-! LaTeX Error: Command \textcent unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 ...lculadoras, mp4, mp3, DVDs port√°teis, c√¢
-                                                  meras digitais e celulares...
-
-? 
-
-! LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 ...s digitais e celulares \cite{WikipediaLCD}
-                                                  .
-? 
-
-Package natbib Warning: Citation `WikipediaLCD' on page 10 undefined on input l
-ine 50.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.51 
-     
-? 
-Missing character: There is no √ in font cmr17!
-Missing character: There is no Ω in font cmr17!
-Missing character: There is no √ in font cmr17!
-
-Overfull \hbox (457.84999pt too wide) in paragraph at lines 50--51
-\T1/cmr/bx/n/24.88 rel√$[]\OML/cmm/m/it/24.88 giosdigitais; calculadoras; mp\OT
-1/cmr/m/n/24.88 4\OML/cmm/m/it/24.88 ; mp\OT1/cmr/m/n/24.88 3\OML/cmm/m/it/24.8
-8 ; DVDsportteis; cmerasdigitaisecelulares\OT1/cmr/m/n/24.88 [[]]\OML/cmm/m/it/
-24.88 :$  
- []
-
-
-Package natbib Warning: Citation `WikipediaLCD' on page 10 undefined on input l
-ine 52.
-
-
-LaTeX Warning: Reference `fig:camadas_lcd' on page 10 undefined on input line 5
-4.
-
-<./figuras/camadas_lcd.jpg, id=135, 843.15pt x 788.9475pt>
+<./figuras/camadas_lcd.jpg, id=182, 843.15pt x 788.9475pt>
 File: ./figuras/camadas_lcd.jpg Graphic file (type jpg)
 
 <use ./figuras/camadas_lcd.jpg>
 Package pdftex.def Info: ./figuras/camadas_lcd.jpg used on input line 58.
 (pdftex.def)             Requested size: 187.33015pt x 175.27843pt.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.61 \end{figure}
-                 
-? 
-! Extra }, or forgotten $.
-<to be read again> ...rotect \pounds  }O TE\~A{^3}
-                                                  RICA
-l.61 \end{figure}
-                 
-? 
-! Extra }, or forgotten $.
-\MakeUppercase  ... {\uppercase {#1}}\reserved@a }
-                                                  
-l.61 \end{figure}
-                 
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.61 \end{figure}
-                 
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.61 \end{figure}
-                 
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.61 \end{figure}
-                 
-? 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 61.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 61.
-[10]
+ [6 <./figuras/camadas_plasma.jpg>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 65.
 
-
-! LaTeX Error: Command \textcent unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.68 ...ormar energia el√©trica em luz. J√° as l√¢
-                                                  mpadas comuns utilizam rad...
-
-? 
-
-! LaTeX Error: Command \textcent unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.68 ...om descarga de gases, como no caso das l√¢
-                                                  mpadas fluorescentes usada...
-
-? 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 70.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 70.
-[11 <./figuras/camadas_lcd.jpg>]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.70 ...isados e divulgados pelo projeto Laborat√≥
-                                                  rio de Ilumina√ß√£o da Uni...
-
-? 
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.70 ...isados e divulgados pelo projeto Laborat√≥
-                                                  rio de Ilumina√ß√£o da Uni...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 70.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.71 
-     
-? 
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-
-Overfull \hbox (4201.6426pt too wide) in paragraph at lines 70--71
-\T1/cmr/bx/n/24.88 Laborat√$[]\OML/cmm/m/it/24.88 riodeIlumina\OMS/cmsy/m/n/24.
-88 x\OT1/cmr/m/it/24.88 $\OML/cmm/m/it/24.88 odaUnicamp; oLEDfoidesenvolvidoain
-daqueemfaseexperimentalerudimentarnoanode\OT1/cmr/m/n/24.88 1963\OML/cmm/m/it/2
-4.88 porNickHolonyac:Seufuncionamentoeraapenaspelaluzvermelhaecombaixaluminosid
-ade; atingindoapenas\OT1/cmr/m/n/24.88 1\OML/cmm/m/it/24.88 mcd:Em\OT1/cmr/m/n/
-24.88 1960\OML/cmm/m/it/24.88 obteveoLEDamareloeapenasem\OT1/cmr/m/n/24.88 1975
-\OML/cmm/m/it/24.88 quesurgiualuzverde:IssorepresentaqueoLEDdehoje[]muitomaisav
-an\OMS/cmsy/m/n/24.88 x\OML/cmm/m/it/24.88 ado; masadescobertadeHolonyacfoiopro
-cessoinicialparaainven\OMS/cmsy/m/n/24.88 x\OT1/cmr/m/it/24.88 $\OML/cmm/m/it/2
-4.88 odatecnologiaLED:$  
- []
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.74 M
-      as foi com o surgimento da tecnologia Luxeon que foi poss√≠vel ter flu...
-
-? 
-! Extra }, or forgotten $.
-<to be read again> ...rotect \pounds  }O TE\~A{^3}
-                                                  RICA
-l.74 M
-      as foi com o surgimento da tecnologia Luxeon que foi poss√≠vel ter flu...
-
-? 
-! Extra }, or forgotten $.
-\MakeUppercase  ... {\uppercase {#1}}\reserved@a }
-                                                  
-l.74 M
-      as foi com o surgimento da tecnologia Luxeon que foi poss√≠vel ter flu...
-
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.74 M
-      as foi com o surgimento da tecnologia Luxeon que foi poss√≠vel ter flu...
-
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.74 M
-      as foi com o surgimento da tecnologia Luxeon que foi poss√≠vel ter flu...
-
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.74 M
-      as foi com o surgimento da tecnologia Luxeon que foi poss√≠vel ter flu...
-
-? 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 74.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 74.
-[12]
-
-! LaTeX Error: Command \textcent unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.74 ...er fluxo luminoso de 30 lumens e com um √¢
-                                                  ngulo de emiss√£o de 110 g...
-
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.74 ... assim maior rendimento e avan√ßo tecnol√≥
-                                                  gico no assunto.
-? 
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.74 ... assim maior rendimento e avan√ßo tecnol√≥
-                                                  gico no assunto.
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.75 
-     
-? 
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ... r√°dio, televis√£o e outros aparelhos. √â
-                                                   a t√≠pica luz vermelha qu...
-
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.76 .... Hoje, o LED √© muito aplicado em autom√≥
-                                                  veis, destacando o ve√≠cul...
-
-? 
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.76 .... Hoje, o LED √© muito aplicado em autom√≥
-                                                  veis, destacando o ve√≠cul...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 76.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 76.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 76.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 76.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 76.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 76.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 76.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 76.
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 76.
-
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 76.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.77 
-     
-? 
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-
-Overfull \hbox (2677.5753pt too wide) in paragraph at lines 76--77
-\OML/cmm/m/it/24.88 culoeproporcionandomelhorluminosidadecombaixoconsumodeenerg
-ia:Tamb[]m[]utilizadoemPain[]isdeLed:Estesaparelhoss\OT1/cmr/m/it/24.88 $\OML/c
-mm/m/it/24.88 oaplicadosparacenografia; shows; feiraseeventos; exibi\OMS/cmsy/m
-/n/24.88 x\OT1/cmr/m/it/24.88 $\OML/cmm/m/it/24.88 odepropagandas\OT1/cmr/m/n/2
-4.88 (\OML/cmm/m/it/24.88 principalmentepormeiodePaineldeLedOutdoor\OT1/cmr/m/n
-/24.88 )\OML/cmm/m/it/24.88 ; est[]diosdeTV; emuitasoutrasocasi^^Ves:$  
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 78.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 78.
-[13]
-
-! LaTeX Error: Command \textcent unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.78 ...mado por placas compostas por pequenas l√¢
-                                                  mpadas de luzes RGB (Red, ...
-
-? 
-
-LaTeX Warning: Reference `fig:camadas_led' on page 14 undefined on input line 7
-8.
-
-<./figuras/camadas_led.jpg, id=154, 857.2025pt x 780.9175pt>
+<./figuras/camadas_led.jpg, id=188, 857.2025pt x 780.9175pt>
 File: ./figuras/camadas_led.jpg Graphic file (type jpg)
 
 <use ./figuras/camadas_led.jpg>
@@ -1668,282 +858,173 @@ Package pdftex.def Info: ./figuras/camadas_led.jpg used on input line 82.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ) (./cap-oled.tex
-! Missing $ inserted.
-<inserted text> 
-                $
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
-! Extra }, or forgotten $.
-<to be read again> ...rotect \pounds  }O TE\~A{^3}
-                                                  RICA
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
-! Extra }, or forgotten $.
-\MakeUppercase  ... {\uppercase {#1}}\reserved@a }
-                                                  
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
-[14]
+ [7 <./figuras/camadas_lcd.jpg>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
- [15 <./figuras/camadas_led.jpg>]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
-! Extra }, or forgotten $.
-<to be read again> ...rotect \pounds  }O TE\~A{^3}
-                                                  RICA
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
-! Extra }, or forgotten $.
-\MakeUppercase  ... {\uppercase {#1}}\reserved@a }
-                                                  
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.2 \chapter
-            {Telas OLED Flex√≠veis}
-? 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2.
-[16
-
-]
+ [8 <./figuras/camadas_led.jpg>]
 Cap\'{\i }tulo 4.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 
-LaTeX Warning: Reference `fig:oled_early_product' on page 17 undefined on input
- line 5.
+Package natbib Warning: Citation `HSWOLED' on page 9 undefined on input line 5.
 
 
-Package natbib Warning: Citation `WikipediaOLED' on page 17 undefined on input 
-line 5.
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 7.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 7.
-[17]
-Overfull \vbox (18.41068pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 7.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 7.
-
-[18]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.7 ...York desenvolveram eletrodos injet√°veis √≥
-                                                  hmicos de contato a partir...
-
-? 
-! Extra }, or forgotten $.
-\maththreesuperior ->{^3}
-                         
-l.7 ...York desenvolveram eletrodos injet√°veis √≥
-                                                  hmicos de contato a partir...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
+Package natbib Warning: Citation `WikipediaOLED' on page 9 undefined on input l
+ine 5.
 
 
-LaTeX Warning: Command \textcent invalid in math mode on input line 7.
+Package natbib Warning: Citation `WikipediaOLED' on page 9 undefined on input l
+ine 7.
 
-
-! LaTeX Error: Command \textcent unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...micos de contato a partir de cristais org√¢
-                                                  nicos. Eles descreveram ai...
-
-? 
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \textexclamdown invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \textordfeminine invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \textexclamdown invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 7.
-
-
-LaTeX Warning: Command \textexclamdown invalid in math mode on input line 7.
-
-
-! LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...rodo de prata em 400V. \cite{WikipediaOLED}
-                                                  
-? 
-
-Package natbib Warning: Citation `WikipediaOLED' on page 19 undefined on input 
-line 7.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.8 
-    
-? 
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no Ω in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no Ω in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no √ in font cmr17!
-Missing character: There is no Ω in font cmr17!
-
-Overfull \hbox (3090.3494pt too wide) in paragraph at lines 7--8
-\T1/cmr/bx/n/24.88 √$[]\OML/cmm/m/it/24.88 hmicosdecontatoapartirdecristaisorgn
-icos:Elesdescreveramaindaosrequisitosenerg[]ticosnecessrios\OT1/cmr/m/n/24.88 (
-\OML/cmm/m/it/24.88 fun\OMS/cmsy/m/n/24.88 x\OML/cmm/m/it/24.88 ^^Vestrabalho\O
-T1/cmr/m/n/24.88 )\OML/cmm/m/it/24.88 paraoseletrodosdecontatoinjetados:Essesco
-ntatoss\OT1/cmr/m/it/24.88 $\OML/cmm/m/it/24.88 oabasedainje\OMS/cmsy/m/n/24.88
- x\OT1/cmr/m/it/24.88 $\OML/cmm/m/it/24.88 odecargaemtodososdispositivosOLEDmod
-ernos:OgrupodePopetamb[]mobservoupelaprimeiravez[][]\OT1/cmr/bx/n/24.88 decorre
-ntecont\T1/cmr/bx/n/24.88 - 
- []
-
-
-Overfull \hbox (1456.64336pt too wide) in paragraph at lines 7--8
-\OT1/cmr/bx/n/24.88 nua\OT1/cmr/m/n/24.88 (\OT1/cmr/bx/n/24.88 DC\OT1/cmr/m/n/2
-4.88 )\OT1/cmr/bx/n/24.88 sobvcuoemum[]nicocristalpurodeantracenoeemcristaisdea
-ntracenoembebidoscomtetracenoem1963\OML/cmm/m/it/24.88 ; \OT1/cmr/bx/n/24.88 us
-andoumapequenareadeeletrododeprataem400V\OML/cmm/m/it/24.88 :\OT1/cmr/m/n/24.88
- [[]]$  
- []
-
-<./figuras/oled_early_product.jpg, id=179, 481.8pt x 339.2675pt>
+<./figuras/oled_early_product.jpg, id=198, 481.8pt x 339.2675pt>
 File: ./figuras/oled_early_product.jpg Graphic file (type jpg)
 
 <use ./figuras/oled_early_product.jpg>
 Package pdftex.def Info: ./figuras/oled_early_product.jpg used on input line 11
 .
 (pdftex.def)             Requested size: 187.33015pt x 131.90999pt.
+
+
+Package natbib Warning: Citation `HSWOLED' on page 9 undefined on input line 16
+.
+
+
+Package natbib Warning: Citation `HSWOLED' on page 9 undefined on input line 18
+.
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 19.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 19.
+[9
+
+ <./figuras/oled_early_product.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 21.
+
+
+Package natbib Warning: Citation `OLEDPioneers' on page 10 undefined on input l
+ine 24.
+
+<./figuras/ching_tang.jpg, id=205, 401.5pt x 444.66125pt>
+File: ./figuras/ching_tang.jpg Graphic file (type jpg)
+
+<use ./figuras/ching_tang.jpg>
+Package pdftex.def Info: ./figuras/ching_tang.jpg used on input line 28.
+(pdftex.def)             Requested size: 187.33015pt x 207.47098pt.
+
+<./figuras/steven_slyke.jpg, id=206, 311.1625pt x 313.17pt>
+File: ./figuras/steven_slyke.jpg Graphic file (type jpg)
+
+<use ./figuras/steven_slyke.jpg>
+Package pdftex.def Info: ./figuras/steven_slyke.jpg used on input line 35.
+(pdftex.def)             Requested size: 187.33015pt x 188.53899pt.
+
+
+Package natbib Warning: Citation `WIOLEDT' on page 10 undefined on input line 4
+0.
+
+
+Package natbib Warning: Citation `WIOLEDT' on page 10 undefined on input line 4
+2.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 43.
+[10 <./figuras/ching_tang.jpg> <./figuras/steven_slyke.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 61.
+
+
+Package natbib Warning: Citation `HSWOLED' on page 11 undefined on input line 6
+4.
+
+
+! LaTeX Error: File `camadas_oled' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 ...raphics[width=.40\textwidth]{camadas_oled}
+                                                  
+? 
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 75.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 82.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 89.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 100.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 100.
+[11]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 100.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 117.
+
+
+! LaTeX Error: File `oled_process' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 ...aphics[width=.40\textwidth]{oled_process}
+                                                  
+? 
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 140.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 140.
+[12]
+
+Package natbib Warning: Citation `HSWOLED' on page 13 undefined on input line 1
+46.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 150.
+
+Package natbib Warning: Citation `HSWOLED' on page 13 undefined on input line 1
+53.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 166.
+
+! LaTeX Error: File `galaxy_round' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.173 ...aphics[width=.40\textwidth]{galaxy_round}
+                                                  
+? 
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 181.
 ) (./cap-conclusions.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
- [19 <./figuras/oled_early_product.jpg>]
+ [13]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
- [20
+ [14
 
 ]
 Cap\'{\i }tulo 5.
@@ -1954,12 +1035,12 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 194.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 194.
- [21]
+ [15]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 194.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 194.
- [22
+ [16
 
 ] (./monografia.bbl (./monografia.brf)
 \tf@brf=\write6
@@ -1968,11 +1049,37 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-Overfull \hbox (149.98454pt too wide) in paragraph at lines 9--9
-\T1/cmr/bx/n/24.88 resumo-[]tudo-[]o-[]que-[]aconteceu-[]na-[]google-[]io-[]201
-4$[][]. 
+
+! Package inputenc Error: Unicode char \u8:⁄l not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 
+    
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]\T1/cmr/bx/n/10.95 Bruno Ay-res Mar-ti-nez.  Re-sumo: Tudo o que acon-te-ceu
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+\T1/cmr/bx/n/10.95 na go-o-gle i/o de 2014.  [][]$http : / / showmetech . band 
+. uol . com . br /
+ []
+
+
+! Package inputenc Error: Unicode char \u8:⁄l not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 
+     
+? 
 )
 No file monografia.ind.
 
@@ -1983,90 +1090,50 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 203.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 203.
-[23
+[17
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 203.
  (./monografia.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 203.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 203.
-
-
-Package rerunfilecheck Warning: File `monografia.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `monografia.out':
-(rerunfilecheck)             Before: C4613F7C9A02517AF626CFDBD1E726D9;639
-(rerunfilecheck)             After:  2F9C43444D7C16E46A2F2C1594CB31AC;911.
+Package rerunfilecheck Info: File `monografia.out' has not changed.
+(rerunfilecheck)             Checksum: 161C281831D3EE2900AF26822BEBD876;1603.
 Package rerunfilecheck Info: File `monografia.brf' has not changed.
 (rerunfilecheck)             Checksum: 18D8FD9CE85FD86904F704EDB87CCBCB;103.
 
-LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 203.
- )
-(\end occurred inside a group at level 10)
-
-### simple group (level 10) entered at line 7 ({)
-### simple group (level 9) entered at line 76 ({)
-### simple group (level 8) entered at line 74 ({)
-### simple group (level 7) entered at line 70 ({)
-### simple group (level 6) entered at line 50 ({)
-### simple group (level 5) entered at line 48 ({)
-### simple group (level 4) entered at line 46 ({)
-### simple group (level 3) entered at line 37 ({)
-### simple group (level 2) entered at line 13 ({)
-### simple group (level 1) entered at line 2 ({)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 10547 strings out of 493315
- 156781 string characters out of 6137904
- 287051 words of memory out of 5000000
- 13759 multiletter control sequences out of 15000+600000
- 28093 words of font info for 72 fonts, out of 8000000 for 9000
+ 10750 strings out of 493315
+ 158341 string characters out of 6137904
+ 290575 words of memory out of 5000000
+ 13919 multiletter control sequences out of 15000+600000
+ 20836 words of font info for 45 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 36i,13n,43p,762b,734s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{appendix*.2} has been referenced bu
-t does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.2.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.2} has been referenced but does not exist
-, replaced by a fixed one
-
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
-sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
-r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
-/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/l
-ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
-al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
-/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/te
-xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
-live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texl
-ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texli
-ve/2013/texmf-dist/fonts/type1/public/cm-super/sfbi2488.pfb></usr/local/texlive
-/2013/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2
-013/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/201
-3/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2013/
-texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2013/te
-xmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2013/texm
-f-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2013/texmf-
-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2013/texmf-di
-st/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2013/texmf-dist
-/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2013/texmf-dist/f
-onts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2013/texmf-dist/fon
-ts/type1/public/cm-super/sfti1095.pfb>
-Output written on monografia.pdf (27 pages, 1677191 bytes).
+ 36i,12n,43p,759b,435s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/
+local/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/lo
+cal/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/loca
+l/texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/
+texlive/2013/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/te
+xlive/2013/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texl
+ive/2013/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2013
+/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2013/t
+exmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on monografia.pdf (21 pages, 1736954 bytes).
 PDF statistics:
- 302 PDF objects out of 1000 (max. 8388607)
- 242 compressed objects within 3 object streams
- 53 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 339 PDF objects out of 1000 (max. 8388607)
+ 292 compressed objects within 3 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
