@@ -1,4 +1,4 @@
-\documentclass[11pt,twoside,a4paper]{book}
+\documentclass[11pt,oneside,a4paper]{book}
 
 % ---------------------------------------------------------------------------- %
 % Pacotes 
@@ -78,11 +78,11 @@ framexrightmargin=10pt
 \begin{document}
 \frontmatter 
 % cabeçalho para as páginas das seções anteriores ao capítulo 1 (frontmatter)
-\fancyhead[RO]{{\footnotesize\rightmark}\hspace{2em}\thepage}
+%\fancyhead[RO]{{\footnotesize\rightmark}\hspace{2em}\thepage}
 \setcounter{tocdepth}{2}
-\fancyhead[LE]{\thepage\hspace{2em}\footnotesize{\leftmark}}
-\fancyhead[RE,LO]{}
-\fancyhead[RO]{{\footnotesize\rightmark}\hspace{2em}\thepage}
+%\fancyhead[LE]{\thepage\hspace{2em}\footnotesize{\leftmark}}
+%\fancyhead[RE,LO]{}
+%\fancyhead[RO]{{\footnotesize\rightmark}\hspace{2em}\thepage}
 
 \onehalfspacing  % espaçamento
 
@@ -172,7 +172,7 @@ framexrightmargin=10pt
 \mainmatter
 
 % cabeçalho para as páginas de todos os capítulos
-\fancyhead[RE,LO]{\thesection}
+%\fancyhead[RE,LO]{\thesection}
 
 %\singlespacing              % espaçamento simples
 \onehalfspacing            % espaçamento um e meio
@@ -185,7 +185,7 @@ framexrightmargin=10pt
 
 % cabeçalho para os apêndices
 \renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{\appendixname\ \thechapter}} {\MakeUppercase{#1}} }
-\fancyhead[RE,LO]{}
+%\fancyhead[RE,LO]{}
 \appendix
 
 
